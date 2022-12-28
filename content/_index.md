@@ -30,7 +30,10 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: test
+      text: |-
+        <div style="text-align: center;">
+          [Home](https://universemodeling.com/)
+        </div>
     design:
       columns: '1'
       background:
