@@ -13,7 +13,3 @@ external_link: ''
 
 image:
 ---
-
-<div onclick="location.href='https://universemodeling.com/project/relo';" style="cursor:pointer; text-align: center;">
-    relo
-</div>
