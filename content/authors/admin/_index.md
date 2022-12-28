@@ -1,6 +1,6 @@
 ---
 # Display name
-title: elilla
+title: 
 # name_pronunciation: 
 
 # Is this the primary user of the site?
