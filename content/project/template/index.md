@@ -15,8 +15,9 @@ image:
 ---
 
 <div onclick="location.href='https://universemodeling.com/project/survival/';" style="cursor:pointer; text-align: center;">
-    survival
+    text
 </div>
+
 <div onclick="location.href='https://universemodeling.com/project/research/';" style="cursor:pointer; text-align: center;">
-    research
+    text
 </div>
