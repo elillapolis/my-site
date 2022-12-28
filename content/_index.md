@@ -31,7 +31,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        <div onclick="location.href='http://www.example.com';" style="cursor:pointer; text-align: center;">
+        <div onclick="location.href='https://universemodeling.com/';" style="cursor:pointer; text-align: center;">
           home
         </div>
     design:
