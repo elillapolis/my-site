@@ -14,10 +14,10 @@ external_link: ''
 image:
 ---
 
-<div onclick="location.href='https://universemodeling.com/project/survival/social';" style="cursor:pointer; text-align: center;">
+<div onclick="location.href='https://universemodeling.com/project/social';" style="cursor:pointer; text-align: center;">
     social
 </div>
 
-<div onclick="location.href='https://universemodeling.com/project/survival/self';" style="cursor:pointer; text-align: center;">
+<div onclick="location.href='https://universemodeling.com/project/self';" style="cursor:pointer; text-align: center;">
     self
 </div>
