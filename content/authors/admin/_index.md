@@ -3,13 +3,6 @@
 title: 
 # name_pronunciation: 
 
-show_date: false
-share: false
-profile: false
-commentable: false
-show_related: false
-
-
 # Is this the primary user of the site?
 superuser: true
 

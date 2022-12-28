@@ -2,8 +2,13 @@
 title: ''
 summary: ''
 tags:
-#   - main
 date: ''
+
+show_date: false
+share: false
+profile: false
+commentable: false
+show_related: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
