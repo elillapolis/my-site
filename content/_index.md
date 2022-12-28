@@ -14,6 +14,8 @@ sections:
   - block: about.avatar
     id: home
     content:
+      username: admin
+      # text:
     design:
       background:
         color: black
