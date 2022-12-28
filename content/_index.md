@@ -33,6 +33,18 @@ sections:
       text: test
     design:
       columns: '1'
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: space.jpg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: false
+      css_class: d-flex fullscreen align-items-center
   # - block: markdown
   #   content:
   #     title: HomePage
