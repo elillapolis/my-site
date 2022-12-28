@@ -11,12 +11,15 @@ sections:
   #     # text: |-
   #     #   👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
   #     #   {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
-  - block: about.avatar
+  - block: markdown
     id: home
     content:
-      username: admin
-      # text:
+      title: My title
+      subtitle: My subtitle
+      # To render inline or block math, wrap your LaTeX math with {{< math >}}$...${{< /math >}} or {{< math >}}$$...$${{< /math >}}
+      text: [Home](https://universemodeling.com/)
     design:
+      columns: '1'
       background:
         color: black
         text_color_light: true
