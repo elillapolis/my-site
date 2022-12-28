@@ -13,26 +13,26 @@ sections:
       text:
     design:
       background:
-          color: black
-          text_color_light: true
-          image:
-            # Add your image background to `assets/media/`.
-            filename: space.jpg
-            filters:
-              brightness: 0.4
-            size: cover
-            position: center
-            parallax: false
-        css_class: d-flex fullscreen align-items-center
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: space.jpg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: false
+      css_class: d-flex fullscreen align-items-center
 
-  # - block: markdown
-  #   id: nav
-  #   content:
-  #     title: HomePage
-  #     subtitle: ''
-  #     # To render inline or block math, wrap your LaTeX math with {{< math >}}$...${{< /math >}} or {{< math >}}$$...$${{< /math >}}
-  #     text: [Home](https://universemodeling.com/)
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    id: nav
+    content:
+      title: HomePage
+      subtitle: ''
+      # To render inline or block math, wrap your LaTeX math with {{< math >}}$...${{< /math >}} or {{< math >}}$$...$${{< /math >}}
+      text: [Home](https://universemodeling.com/)
+    design:
+      columns: '1'
 
 ---
