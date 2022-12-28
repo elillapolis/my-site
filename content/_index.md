@@ -30,10 +30,12 @@ sections:
     content:
       title: Gallery
       subtitle: ''
+      # <div onclick="location.href='https://universemodeling.com/';" style="cursor:pointer; text-align: center;">
+        #   home
+        # </div>
+      # add youtube with {{< youtube w7Ft2ymGmfc >}}
       text: |-
-        <div onclick="location.href='https://universemodeling.com/';" style="cursor:pointer; text-align: center;">
-          home
-        </div>
+        [main]({{< relref "/project/main" >}})
     design:
       columns: '1'
       background:
