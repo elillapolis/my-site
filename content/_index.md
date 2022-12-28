@@ -25,6 +25,13 @@ sections:
           parallax: false
       css_class: d-flex fullscreen align-items-center
 
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: test
+    design:
+      columns: '1'
   # - block: markdown
   #   content:
   #     title: HomePage
