@@ -7,6 +7,6 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Nav
-    url: '#nav'
-    weight: 20
+  # - name: Nav
+  #   url: '#nav'
+  #   weight: 20

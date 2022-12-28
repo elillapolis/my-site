@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+
 sections:
   - block: about.avatar
     id: home
@@ -24,14 +25,14 @@ sections:
             parallax: false
         css_class: d-flex fullscreen align-items-center
 
-  - block: markdown
-    id: nav
-    content:
-      title: HomePage
-      subtitle: ''
-      # To render inline or block math, wrap your LaTeX math with {{< math >}}$...${{< /math >}} or {{< math >}}$$...$${{< /math >}}
-      text: [Home](https://universemodeling.com/)
-    design:
-      columns: '1'
+  # - block: markdown
+  #   id: nav
+  #   content:
+  #     title: HomePage
+  #     subtitle: ''
+  #     # To render inline or block math, wrap your LaTeX math with {{< math >}}$...${{< /math >}} or {{< math >}}$$...$${{< /math >}}
+  #     text: [Home](https://universemodeling.com/)
+  #   design:
+  #     columns: '1'
 
 ---
